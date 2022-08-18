@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/84324840/185473895-ec64f0b9-9b9f-40e2-b95a-3ac9325e580e.png" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-a&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-a" /> </p>
 
